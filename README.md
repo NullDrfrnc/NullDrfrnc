@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Tools:</h1>
-  <img src="https://img.shields.io/badge/-IntelliJ-red?style=flat-square&color=%23CC2502" />
+  <img src="https://img.shields.io/badge/-IntelliJ-%23DD1265?style=flat-square" /><img src="https://img.shields.io/badge/-Webstorm-%23087CFA?style=flat-square" /><img src="https://img.shields.io/badge/-MySQL-%23003545?style=flat-square" />
 </div>
 
 <!--
