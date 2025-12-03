@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Tools:</h1>
-  <img src="https://img.shields.io/badge/-IntelliJ-%23DD1265?style=for-the-badge" /> ~ <img src="https://img.shields.io/badge/-Webstorm-%23087CFA?style=for-the-badge" /> ~ <img src="https://img.shields.io/badge/-MySQL-%2300758F?style=for-the-badge" /> ~ <img src="https://img.shields.io/badge/-Mariadb-%23003545?style=for-the-badge" /> ~ <img src="https://img.shields.io/badge/-Hibernate-%23bcae79?style=for-the-badge" /> ~ <img src="https://img.shields.io/badge/-Micronaut-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-IntelliJ-%23DD1265?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Webstorm-%23087CFA?style=for-the-badge" /> <img src="https://img.shields.io/badge/-MySQL-%2300758F?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Mariadb-%23003545?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Hibernate-%23bcae79?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Micronaut-purple?style=for-the-badge" />
 </div>
 
 <!--
