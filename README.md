@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm \<null/\></h1>
+  <h1>Hi there, I'm <null\> </h1>
   <p>I'm a software developer primarilly working in java and typescript</p>
   <h1>Tools:</h1>
   <img src="https://img.shields.io/badge/-IntelliJ-%23DD1265?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Webstorm-%23087CFA?style=for-the-badge" /> <img src="https://img.shields.io/badge/-MySQL-%2300758F?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Mariadb-%23003545?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Hibernate-%23bcae79?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Micronaut-purple?style=for-the-badge" /> <img src="https://img.shields.io/badge/-npm-%23CC3534?style=for-the-badge" /> <img src="https://img.shields.io/badge/-axios-%235a29e4?style=for-the-badge" />
