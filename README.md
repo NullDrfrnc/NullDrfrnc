@@ -1,4 +1,4 @@
-## Hi there, I'm /<null\/> 
+## Hi there, I'm <null\/> 
 
 <div align="center">
   <p>I'm a software developer primarilly working in java and typescript</p>
