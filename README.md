@@ -1,9 +1,9 @@
 ## Hi there, I'm \<null/\>
 
-<p align="center">
+<div align="center">
   <h1>Tools:</h1>
   <img src="https://img.shields.io/badge/-IntelliJ-red?style=flat-square&color=%23CC2502" />
-</p>
+</div>
 
 <!--
 **NullDrfrnc/NullDrfrnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
