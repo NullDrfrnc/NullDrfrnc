@@ -4,7 +4,7 @@
   </h1>
   <p>
     I'm a Dutch software dev, though I also dabble in some game development with aspirations to become one :3<br/>
-    I most of my work is from school and we work with Bitbucket, so don't mind the commit drought
+    Most of my work is from school and we work with Bitbucket, so don't mind the commit drought
   </p>
   
   <h2>Tools:</h1>
