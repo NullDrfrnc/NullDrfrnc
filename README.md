@@ -3,9 +3,8 @@
     Hi there, I'm &lt;null/&gt;
   </h1>
   <p>
-    I'm a software developer from the Netherlands!
-    Though I also dabble in some game development with Godot from time to time :3<br/>
-    Most of my work is from school and we work with Bitbucket, so don't mind the commit drought
+    I'm a Dutch software dev, though I also dabble in some game development with aspirations to become one :3<br/>
+    I most of my work is from school and we work with Bitbucket, so don't mind the commit drought
   </p>
   
   <h2>Tools:</h1>
