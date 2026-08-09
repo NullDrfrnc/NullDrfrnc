@@ -3,11 +3,8 @@
     Hi there, I'm &lt;null/&gt;
   </h1>
   <p>
-    I'm a software developer primarilly working in java and typescript.
-  </p>
-  <p>
-    I like making things and starting projects. 
-    Currently building: A ✨thing✨. It works. Mostly.
+    I'm a software developer from the Netherlands!
+    Though I also dabble in some game development with godot from time to time :3
   </p>
   
   <h2>Tools:</h1>
@@ -25,7 +22,6 @@
   <img src="https://img.shields.io/badge/-Java-%23f89820?style=for-the-badge" /> 
   <img src="https://img.shields.io/badge/-Typescript-%233178c6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-GDscript-%23478cbf?style=for-the-badge" />
-  <p><i>"If it compiles on the first try, you definitely forgot something."</i></p>
 </div>
 
 <!--
